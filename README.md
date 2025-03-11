@@ -1,4 +1,4 @@
-# ASP1_DZ2: Stablo pretrage (Decision tree)
+# ASP1_DZ2 - Algorithms and Data Structures 1: Stablo pretrage (Decision tree)
 
 ## Description
 This project is an implementation of solving Einstein's Riddle using a decision tree. 
